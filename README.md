@@ -1,0 +1,2 @@
+# restaurant-management-system-c-
+A fast-food restaurant has a process of a Manager, Cook, Waiter, and Customer. At the start, the restaurant has one manager, cook, waiter and customer but you can create multiple Cooks and Waiters to handle more than one Customer using multithreading. When the customer will place its order you will calculate the total preparation time of all the dishes that the customer ordered and the customer will wait for that time c++ code..
